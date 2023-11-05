@@ -1,0 +1,3 @@
+Velocidad: 100
+TiempoComida: 5000
+TiempoComidaMala: 7000
